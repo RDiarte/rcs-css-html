@@ -1,0 +1,79 @@
+.d-flex {
+  display: flex;
+}
+
+.navbar {
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0;
+  background-image: url(https://awol.com.au/wp-content/uploads/2019/11/30624445_2031384813783830_665928700650323968_n-copy.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nav-btn {
+  list-style: none;
+}
+.nav-option {
+  margin: 10px;
+}
+.card-list {
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: lightgray;
+  justify-content: center;
+  align-items: center;
+}
+.precio-col {
+  display: inline-block;
+  background-color: #f3f3f3;
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  box-shadow: 0px 2px 5px #ddd;
+}
+.lis {
+  list-style: none;
+}
+
+#h1 {
+  font-size: 100px;
+  font-weight: bold;
+}
+.font-li {
+  font-size: 30px;
+}
+.h2 {
+  font-size: 30px;
+}
+.h3 {
+  font-size: 25px;
+  color: lightgray;
+}
+
+.precio-col {
+  display: inline-block;
+  background-color: #f3f3f3;
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  box-shadow: 0px 2px 5px #ddd;
+}
+
+.precio-col-header {
+  background-color: #333;
+  padding: 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.precio-col-features p {
+  padding: 0 20px 20px 20px;
+}
+.precio-col-features p {
+  padding: 20px 0;
+  margin: 0;
+  text-align: center;
+  border-top: 1px solid #ddd;
+}
