@@ -77,3 +77,24 @@
   text-align: center;
   border-top: 1px solid #ddd;
 }
+
+.footer {
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 0;
+  background-image: url(https://awol.com.au/wp-content/uploads/2019/11/30624445_2031384813783830_665928700650323968_n-copy.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.foot-btn {
+  list-style: none;
+}
+.h2-foot {
+  font-size: 30px;
+  color: rgb(252, 251, 251);
+}
+
+.color {
+  color: rgb(64, 131, 64);
+}
